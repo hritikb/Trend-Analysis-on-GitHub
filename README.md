@@ -6,7 +6,7 @@ The 'Trending Technologies' folder has year-wise trending topics and technologie
 
 ---
 
-### Language used in popular technologies
+### Programming languages used in top technologies
 The programming languages primarily used for these 'Trending Technologies'.
 
 ---
